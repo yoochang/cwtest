@@ -1,0 +1,1 @@
+anthropic>=1.13  # 선택: Claude로 맞춤 문자 생성

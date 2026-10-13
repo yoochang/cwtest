@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mom",
+    "name": "엄마",
+    "phone": "010-1234-5678",
+    "relation": "family",
+    "call_name": "엄마",
+    "polite": false,
+    "notes": "요즘 무릎이 안 좋으셔서 병원 다니심",
+    "every_days": 3
+  },
+  {
+    "id": "grandpa",
+    "name": "할아버지",
+    "phone": "010-2222-3333",
+    "relation": "family",
+    "call_name": "할아버지",
+    "polite": true,
+    "notes": "텃밭 가꾸기를 좋아하심",
+    "every_days": 7
+  },
+  {
+    "id": "minsu",
+    "name": "김민수",
+    "phone": "010-9876-5432",
+    "relation": "friend",
+    "call_name": "민수야",
+    "polite": false,
+    "notes": "최근 이직해서 새 회사 적응 중",
+    "every_days": 14
+  }
+]
